@@ -8,4 +8,4 @@ app.get('/', function(request, response){
 
 app.listen(process.env.PORT || 4000);
 
-app.close();
+//app.close();
